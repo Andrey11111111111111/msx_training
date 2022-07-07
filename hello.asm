@@ -16,4 +16,4 @@ BDOS:	equ	0005h	; Set the address 0005h into label BDOS.
  
 Hello_TXT:			; Set the current address into label Hello_TXT. (text pointer)
  
-	db "Hello world 2!$"	; The character $ (24h) indicates the end of text for function 9
+	db "Hello world 3!$"	; The character $ (24h) indicates the end of text for function 9
