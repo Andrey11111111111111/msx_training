@@ -1,0 +1,1 @@
+sjasmplus.exe  --raw=hello.com hello.asm
